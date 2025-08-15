@@ -13,7 +13,7 @@
 
 **Evaluation:** mAP
 
-
+Last week, we mentioned that the dataset category is 'scooter' — does it contain only this class?
 
 ## method (Stable Diffusion + ComfyUI)
 
@@ -28,6 +28,8 @@ Baseline pipeline (from “**Explore the Power of Synthetic Data on Few-shot Obj
 
 
 
+new：image+text 2 image, using comyui pipeline?
+
 ## paper
 
 1. How much real data do we actually need: Analyzing object detection performance using synthetic and real data [[link](https://arxiv.org/abs/1907.07061)]
@@ -38,9 +40,13 @@ Baseline pipeline (from “**Explore the Power of Synthetic Data on Few-shot Obj
 
 3. InstaGen: Enhancing Object Detection by Training on Synthetic Dataset [[link](https://openaccess.thecvf.com/content/CVPR2024/html/Feng_InstaGen_Enhancing_Object_Detection_by_Training_on_Synthetic_Dataset_CVPR_2024_paper.html)]
 
+   finetune stable diffusion to generate multi instance image
+
    grounding head?
 
    a pre-trained diffusion model with an instance-grounding head so it generates images together with **bounding boxes**.
+
+   
 
    
 
@@ -72,4 +78,31 @@ continue to learn diffusion model
 
 3. ODGEN: Domain-specific Object Detection Data Generation with Diffusion Models [[link](https://openreview.net/forum?id=kTtK65vKvD)]
 
-   Uses detection constraints—**class lists, counts, and scales**—to **conditionally generate instance-level images**
+   Uses detection constraints to conditionally generate instance-level images
+
+
+
+
+
+
+
+# q
+
+1. After completing the literature review and the initial draft of my thesis, which advisor should I consult for feedback and revisions?
+2. 
+
+Real time
+
+yolo
+
+detr
+
+
+
+
+
+a quick summary of 
+
+and roadmap
+
+200 scooters 
