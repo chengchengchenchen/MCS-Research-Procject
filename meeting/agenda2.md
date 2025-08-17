@@ -35,7 +35,7 @@
 
    *Reference:* Data Augmentation for Object Detection via Controllable Diffusion Models  [[link](https://openaccess.thecvf.com/content/WACV2024/papers/Fang_Data_Augmentation_for_Object_Detection_via_Controllable_Diffusion_Models_WACV_2024_paper.pdf)]
 
-   ![pipeline_in_agenda2](E:\Unimelb\MCS-Research-Procject\assets\pipeline_in_agenda2.png)
+   ![pipeline_in_agenda2](..\assets\pipeline_in_agenda2.png)
 
 3. Experiments Tried: 
 
