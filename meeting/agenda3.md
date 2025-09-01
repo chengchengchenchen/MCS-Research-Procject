@@ -97,3 +97,10 @@ dataset focus on auto driving or object detection?
 3. What "full" means in the design table
 4. other question: week11 oral presentation, online or in person. haven't got any info...
 
+
+
+gap paragraph in field in conclusion
+
+data augmentation in auto driving: how to tackle niche data like GTA simulator 
+
+https://arxiv.org/pdf/2508.07714
