@@ -71,3 +71,7 @@ References:
 plan to finish within the next 2 weeks
 
 due of research proposal and literature review is 9.21
+
+
+
+layout to image
