@@ -42,3 +42,13 @@ This paper uses LLM to classify door instances into functional categories. But n
 1. should I add Timeline and Milestones in RP?
 1. What should the final research proposal format look like? Should the literature review be just a subsection of it?
 
+
+
+
+
+literature gap
+
+intro add some motivation 
+
+add some similar research and get our gaps
+
