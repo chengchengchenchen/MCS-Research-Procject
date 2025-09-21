@@ -1,5 +1,5 @@
-1. a more youli de motivation
-2. elaborate the literature review
-3. like LoRA
-4. human evolution
-5. link objectives to method
+1. Provided a stronger motivation.
+2. Expanded the literature review by incorporating LoRA.
+3. Modified the table (method 1, method 2, …).
+4. Explicitly linked the research objectives to the research plan.
+5. Added human evaluation.
